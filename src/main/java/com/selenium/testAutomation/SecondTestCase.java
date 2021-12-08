@@ -1,4 +1,4 @@
-package com.selenium.test;
+package com.selenium.testAutomation;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
